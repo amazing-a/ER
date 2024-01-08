@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T05:15:14.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iZCCtb9cobH7ygU2adFP" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T05:15:40.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Qwju_DYe4AvqdoO2M6gB" version="22.1.17" type="github">
   <diagram id="8NiMLxr8s7SlpGP2j4rl" name="第 1 页">
     <mxGraphModel dx="1216" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="120" y="450" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="yjyAZag0v-w1nwtXMWmd-23" value="商品信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="170" width="50" height="120" as="geometry" />
+          <mxGeometry x="540" y="340" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yjyAZag0v-w1nwtXMWmd-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yjyAZag0v-w1nwtXMWmd-29" target="yjyAZag0v-w1nwtXMWmd-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -27,9 +27,6 @@
         </mxCell>
         <mxCell id="yjyAZag0v-w1nwtXMWmd-33" value="商品信息管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="1030" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="yjyAZag0v-w1nwtXMWmd-35" value="搜索商品" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="690" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NlK2RtDDk6uxh0RXDttx-1" value="用&lt;br&gt;户&lt;br&gt;登&lt;br&gt;录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="450" width="40" height="160" as="geometry" />
